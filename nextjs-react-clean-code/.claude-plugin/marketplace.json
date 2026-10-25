@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "nextjs-react-clean-code-marketplace",
+  "description": "Production-grade agent skill to refactor React & Next.js spaghetti into clean, human-editable code.",
+  "owner": {
+    "name": "Ahmad Jalhoom",
+    "url": "https://github.com/AhmadJalhoom20"
+  },
+  "plugins": [
+    {
+      "name": "nextjs-react-clean-code",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "AhmadJalhoom20/nextjs-react-clean-code"
+      },
+      "description": "Refactor messy, AI-generated, or spaghetti React & Next.js code into clean, senior-engineer standard code.",
+      "homepage": "https://github.com/AhmadJalhoom20/nextjs-react-clean-code",
+      "license": "MIT",
+      "keywords": ["react", "nextjs", "refactoring", "clean-code", "skills"]
+    }
+  ]
+}

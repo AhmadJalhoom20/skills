@@ -1,0 +1,9 @@
+{
+  "name": "nextjs-react-clean-code",
+  "version": "1.0.0",
+  "description": "Refactor messy, AI-generated, or spaghetti React & Next.js code into clean, senior-engineer standard code.",
+  "author": "Ahmad Jalhoom",
+  "license": "MIT",
+  "homepage": "https://github.com/AhmadJalhoom20/nextjs-react-clean-code",
+  "keywords": ["react", "nextjs", "clean-code", "refactoring", "skills", "agents", "senior-developer"]
+}
